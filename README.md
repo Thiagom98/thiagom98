@@ -28,7 +28,7 @@ Olá me chamo Thiago Mesquita e sou um Dev Full-stack fissurado por matemática 
       <br></br>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thiagom98&theme=algolia&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagom98&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagom98&background=ffffff&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
       </picture>
     </td>
     <td align="center">
